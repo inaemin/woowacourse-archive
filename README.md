@@ -104,7 +104,9 @@ React 컴포넌트 설계부터 Express REST API까지, **하나의 기능을 UI
 
 > '10분 테코톡'은 우아한테크코스 크루들이 동료들과 학습한 내용을 공유하고 이야기하는 시간입니다.
 
-[![테코톡 썸네일](https://img.youtube.com/vi/STh8L4374Ec/maxresdefault.jpg)](https://youtu.be/STh8L4374Ec?si=Io9M0unyQRBx4swB)
+<a href="https://youtu.be/STh8L4374Ec?si=Io9M0unyQRBx4swB">
+  <img src="https://img.youtube.com/vi/STh8L4374Ec/maxresdefault.jpg" alt="테코톡 썸네일" width="50%" />
+</a>
 
 [[10분 테코톡] 애니의 This UI is AI Generated - 생성형 UI 시대의 프론트엔드](https://youtu.be/STh8L4374Ec?si=Io9M0unyQRBx4swB)
 
