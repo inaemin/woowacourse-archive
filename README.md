@@ -16,6 +16,8 @@
 | 서울 지하철 (오픈 미션)      | [seoul-train](https://github.com/inaemin/seoul-train)                           | -                                                                                   |
 | 행성 로또 (최종 코딩 테스트) | [javascript-planetlotto-8](https://github.com/inaemin/javascript-planetlotto-8) | [PR-6](https://github.com/woowacourse-precourse/javascript-planetlotto-8/pull/6)    |
 
+<br />
+
 ## 🌱 레벨1 - 프로그래밍 기본
 
 > 2026.02.24 ~ 2026.04.17
@@ -54,6 +56,8 @@
 | [asynchronous-js](https://github.com/inaemin/asynchronous-js) | 레벨1 JS 비동기 학습 |
 | [learning-skills](https://github.com/inaemin/learning-skills) | 학습법 관련 기록     |
 
+<br />
+
 ## 🌿 레벨2 - React
 
 > 2026.04.27 ~ 2026.06.26
@@ -86,11 +90,25 @@ React 컴포넌트 설계부터 Express REST API까지, **하나의 기능을 UI
 | [shopping-cart-refactoring](https://github.com/inaemin/shopping-cart-refactoring) | 장바구니 리팩토링          | [PR-7](https://github.com/woowacourse/shopping-cart-refactoring/pull/7) |
 | [self-paced-react](https://github.com/inaemin/self-paced-react)                   | React 자율 학습 레포지토리 | -                                                                       |
 
+<br />
+
 ## 🖋 글쓰기
 
 | 레벨  | 글 / PR                                                           |
 | ----- | ----------------------------------------------------------------- |
 | 레벨2 | [PR-1166](https://github.com/woowacourse/woowa-writing/pull/1166) |
+
+<br />
+
+## 🎤 테코톡
+
+> '10분 테코톡'은 우아한테크코스 크루들이 동료들과 학습한 내용을 공유하고 이야기하는 시간입니다.
+
+[![테코톡 썸네일](https://img.youtube.com/vi/STh8L4374Ec/maxresdefault.jpg)](https://youtu.be/STh8L4374Ec?si=Io9M0unyQRBx4swB)
+
+[[10분 테코톡] 애니의 This UI is AI Generated - 생성형 UI 시대의 프론트엔드](https://youtu.be/STh8L4374Ec?si=Io9M0unyQRBx4swB)
+
+<br />
 
 ## 🌳 이후 기록
 
